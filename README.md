@@ -2,7 +2,7 @@
 
 ## MacOS
 ###
-```
+```  
 sudo xattr -r -d com.apple.quarantine </File/To/Path>
 ```
 
